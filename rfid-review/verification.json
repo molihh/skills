@@ -1,6 +1,13 @@
 {
-  "pages": 8,
+  "revision_date": "2026-10-29",
+  "literature_verified_through": "2026-10-11",
+  "pages": 7,
   "references": 11,
-  "font_count": 23,
-  "pdf_sha256": "5281e201048bd76ecaf74bc4b2df54ef31e70a5916b82e6271132e89b5c514f5"
+  "numbered_equations": 17,
+  "native_display_equations": 18,
+  "tables": 2,
+  "abstract_Han_characters": 214,
+  "fonts_embedded": true,
+  "font_count": 21,
+  "pdf_sha256": "49d2b94d18858c54d4d030b3bc78ff0ff6789718342d57b23b787c7f672f7353"
 }
